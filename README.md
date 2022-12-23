@@ -1,2 +1,2 @@
-# algoritmos-intelig-ncia-artificial-bioinspirados-python
+# algoritmos-inteligncia-artificial-bioinspirados-python
 algoritmos-inteligência-artificial-bioinspirados-python
